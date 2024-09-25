@@ -1,6 +1,6 @@
 TARGET = build/app
 CXX = g++
-CXXFLAGS = -Wall -std=c++11
+CXXFLAGS = -Wall -std=c++17
 
 SRCDIR = src
 BUILDDIR = build
